@@ -22,8 +22,3 @@ makefile
 # Uniflash session files
 *.uniflashsession
 
-### Screenshots
-*.png
-*.PNG
-*.jpg
-*.JPG
